@@ -145,7 +145,7 @@ export default function Index() {
                 <Icon name="Zap" className="text-white" size={24} />
               </div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                TechMarket
+                Knoc
               </h1>
             </div>
             <Sheet>
